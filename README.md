@@ -14,7 +14,7 @@ Matlab
 Matlab
 
 ## Illustrations
-![q1](https://user-images.githubusercontent.com/78420756/109525044-6bb8b800-7ab1-11eb-804a-d16b99f5e289.PNG) <br>
+![q3](https://user-images.githubusercontent.com/78420756/109525520-e1bd1f00-7ab1-11eb-91ad-6b3088ab0d82.PNG) <br>
 Architecture of adaptive PID controller based on Q‐learning algorithm | Source: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/trit.2018.1007
 ![q2](https://user-images.githubusercontent.com/78420756/109525042-6b202180-7ab1-11eb-9b4a-4233748a8806.PNG) <br>
 Illustration of the cart–pole system | Source: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/trit.2018.1007
